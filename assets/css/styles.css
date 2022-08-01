@@ -506,7 +506,8 @@ img{
     padding: 1.5rem;
   }
   .powers__img{
-    width: 130px;
+    width: 200px;
+    height: 200px;
   }
 }
 
